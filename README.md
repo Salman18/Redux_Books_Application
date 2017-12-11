@@ -1,6 +1,6 @@
 # Redux_Books_Application
 
-Interested in learning !
+Interested in learning  Redux!
 
 ### Getting Started
 
